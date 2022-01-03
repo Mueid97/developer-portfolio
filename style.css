@@ -9,10 +9,19 @@ h1{
 h2{
     font-size: 35px;
 }
+h3{
+    font-size: 25px;
+}
+h4{
+    font-size: 25px;
+}
 
 .orange-color{
     color: orange;
 
+}
+p{
+    padding-bottom: 10px;
 }
 
 section{
@@ -40,4 +49,8 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+h4{
+    font-size: ;
 }
